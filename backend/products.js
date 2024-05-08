@@ -26,6 +26,15 @@ const products = [
     image:
       "https://res.cloudinary.com/famasboy888/image/upload/v1715079656/online-shop/dul1rdivaqyvk5ehbr9h.png",
   },
+  {
+    id: 4,
+    name: "Legion Pro",
+    brand: "Lenovo",
+    desc: "6.65-inch display",
+    price: 499,
+    image:
+      "https://res.cloudinary.com/famasboy888/image/upload/v1715163120/online-shop/eskga7dxc13pa9yiktr3.jpg",
+  },
 ];
 
 module.exports = products;
