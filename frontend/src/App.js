@@ -11,6 +11,8 @@ import NotFound from "./components/NotFound..";
 
 //Toast
 import { ToastContainer } from "react-toastify";
+import Register from "./components/auth/Register";
+import Login from "./components/auth/Login";
 
 function App() {
   return (
@@ -19,8 +21,10 @@ function App() {
         <ToastContainer limit={3} />
         <NavBar />
         <Routes>
-          <Route path="/cart" element={<Cart />} />
           <Route path="/not-found" element={<NotFound />} />
+          <Route path="/cart" element={<Cart />} />
+          <Route path="/register" element={<Register />} />
+          <Route path="/login" element={<Login />} />
           <Route path="/home" element={<Home />} />
           <Route path="/" element={<Home />} />
           <Route path="*" element={<NotFound />} />

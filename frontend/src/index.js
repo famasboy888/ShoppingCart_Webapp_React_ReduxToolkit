@@ -7,12 +7,14 @@ import { productsApi } from "./services/productsApi";
 
 // Slices
 import cartReducer, { getTotals } from "./features/cartSlice";
+import authReducer, { loadUser} from "./features/authSlice";
 
 const store = configureStore({
   reducer: {
     // products: producReducer,
     [productsApi.reducerPath]: productsApi.reducer,
     cart: cartReducer,
+    auth: authReducer,
   },
   middleware: (getDefaultMiddleware) => {
     return getDefaultMiddleware().concat(productsApi.middleware);
@@ -20,6 +22,7 @@ const store = configureStore({
 });
 
 store.dispatch(getTotals());
+store.dispatch(loadUser(null));
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
