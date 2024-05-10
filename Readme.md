@@ -9,13 +9,19 @@
 ### Home
 
 <p align="center">
-  <img width="100%" height="100%" src="https://github.com/famasboy888/ShoppingCart_Webapp_React_ReduxToolkit/assets/23441168/1a94e63b-f8ab-468b-9d15-7d516b55e8de">
+  <img width="100%" height="100%" src="https://github.com/famasboy888/ShoppingCart_Webapp_React_ReduxToolkit/assets/23441168/c9e7a22f-2865-4c68-826d-9a8091fbf921">
 </p>
 
 ### Cart
 
 <p align="center">
-  <img width="100%" height="100%" src="https://github.com/famasboy888/ShoppingCart_Webapp_React_ReduxToolkit/assets/23441168/184b55c3-b623-42a2-89bf-17c655ea8872">
+  <img width="100%" height="100%" src="https://github.com/famasboy888/ShoppingCart_Webapp_React_ReduxToolkit/assets/23441168/9475fec6-fa24-42d0-92f2-b3334e3daaad">
+</p>
+
+### User Registration
+
+<p align="center">
+  <img width="100%" height="100%" src="https://github.com/famasboy888/ShoppingCart_Webapp_React_ReduxToolkit/assets/23441168/63f5b422-c219-44a2-9545-b8c5a00b09ff">
 </p>
 
 ### Demo
