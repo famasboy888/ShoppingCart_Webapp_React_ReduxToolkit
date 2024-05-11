@@ -24,6 +24,12 @@
   <img width="100%" height="100%" src="https://github.com/famasboy888/ShoppingCart_Webapp_React_ReduxToolkit/assets/23441168/63f5b422-c219-44a2-9545-b8c5a00b09ff">
 </p>
 
+### Stripe Payment - Credit Card/Debit Card
+
+<p align="center">
+  <img width="100%" height="100%" src="https://github.com/famasboy888/ShoppingCart_Webapp_React_ReduxToolkit/assets/23441168/62ff8e25-3e29-4310-8abc-0870cb4bf15d">
+</p>
+
 ### Demo
 
 <p align="center">
