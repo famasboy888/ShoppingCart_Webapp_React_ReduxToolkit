@@ -9,6 +9,7 @@ const products = require("./products");
 //Routes
 const register = require("./routes/register");
 const login = require("./routes/login");
+const stripe = require("./routes/stripe");
 
 //Declare vars
 const port = process.env.PORT || 5000;
@@ -16,12 +17,17 @@ const mongo_uri = process.env.MONGODB_URI;
 
 const app = express();
 
+app.use('/api/stripe/webhook', express.raw({ type: 'application/json' }));
+
 app.use(express.json());
+
 app.use(cors());
 
 app.use("/api/register", register);
 
 app.use("/api/login", login);
+
+app.use("/api/stripe", stripe);
 
 app.get("/", (req, res) => {
   res.send(`Welcome to shop api`);

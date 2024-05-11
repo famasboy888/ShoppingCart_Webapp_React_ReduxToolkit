@@ -9,6 +9,7 @@ import {
 } from "../features/cartSlice";
 
 import { useEffect } from "react";
+import PayButton from "./payButton";
 
 const Cart = () => {
   const cart = useSelector((state) => {
@@ -117,7 +118,7 @@ const Cart = () => {
               </div>
               <p>Taxes and shipping calculated at checkout</p>
               {auth._id ? (
-                <button>Check out</button>
+                <PayButton cartItems={cart.cartItems} />
               ) : (
                 <button
                   className="cart-login"
