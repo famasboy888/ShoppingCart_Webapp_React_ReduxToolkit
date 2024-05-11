@@ -6,6 +6,12 @@
    <img src="https://github.com/famasboy888/GitLab_CICD_SonarQube_AWS_EKS/assets/23441168/eff22283-6f3e-4b79-924a-8e3040810bf5" title="Node" alt="Node" width="90" height="100"/>&nbsp;&nbsp;
 </div>
 
+### Demo
+
+<p align="center">
+  <img width="100%" height="100%" src="https://github.com/famasboy888/ShoppingCart_Webapp_React_ReduxToolkit/assets/23441168/f9b50bb9-0c04-479b-b144-02e817e880d0">
+</p>
+
 ### Home
 
 <p align="center">
@@ -30,11 +36,7 @@
   <img width="100%" height="100%" src="https://github.com/famasboy888/ShoppingCart_Webapp_React_ReduxToolkit/assets/23441168/62ff8e25-3e29-4310-8abc-0870cb4bf15d">
 </p>
 
-### Demo
 
-<p align="center">
-  <img width="100%" height="100%" src="https://github.com/famasboy888/ShoppingCart_Webapp_React_ReduxToolkit/assets/23441168/34cc1f86-b18e-4f85-bb14-aca67fa84224">
-</p>
 
 
 
