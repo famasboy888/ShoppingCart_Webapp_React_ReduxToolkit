@@ -37,6 +37,8 @@ app.get("/products", (req, res) => {
   res.send(products);
 });
 
+
+
 mongoose
   .connect(`${mongo_uri}`, {
     useNewUrlParser: true,
