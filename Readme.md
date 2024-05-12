@@ -9,7 +9,7 @@
 ### Demo
 
 <p align="center">
-  <img width="100%" height="100%" src="https://github.com/famasboy888/ShoppingCart_Webapp_React_ReduxToolkit/assets/23441168/f9b50bb9-0c04-479b-b144-02e817e880d0">
+  <img width="100%" height="100%" src="https://github.com/famasboy888/ShoppingCart_Webapp_React_ReduxToolkit/assets/23441168/289ae7d4-4626-46a3-b5ed-5b427fd5367f">
 </p>
 
 ### Home
